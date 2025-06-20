@@ -28,14 +28,25 @@ Upgrades:
 * Capricorn Tubing
 * A pair of Y-axis Belt tensioners.
 * Cantaliever Bed Support Arms (Printed)
+* Official Creality Printer Enclosure (I do NOT reccomend, works fine but there are better and cheaper options... Why does my printer have to sit sideways in it?)
 * Heatsinks and 12v Fans on both the Extruder and Y axis Nema Motors (Buck Converter was added to power the fans off the 24V PSU)
 * Top Mounted Extruder (Printed the mount)
 * Non standard placement of screen and filiment feed.
 * 115W Ceramic Heater, 104T-4 Thermister, New heatsink w/ BiMetal heatbreak (copper and titanium) (VS stock 40W PTFE fed heatbreak)
+
+Other:
+  
 * Custom USB connection (I blew up the UART -> Serial USB chip while O-scope probing for a pin to use to run a 90W diode laser, DO NOT TEST WITH EARTH GROUND! (forgot printer was USB to PC IE grounded through PC, woops...)
 ( I Had a couple spare Uart to Serail converters for other projects, not the same chip but they work the same way. I have had Zero issues with it, all i did was soughter to the TX and RX (and a common ground, didn't even remove the blown chip, hooked up to my adapter board and issue resolved.)
 * Installed Bootloader with Arduino UNO (simplest method) Installing Firmware from an SD is 1000% easier and if you didn't own a printer when the Ender 5 came out you probably have no idea what I'm talking about lol.
 * Not a physical upgrade but good to *NOTE* : The Original Ender 5 (maybe you found one secondhand) still had old enough Firmware to not include Thermal Runaway Protection, that was the very first upgrade i did (A firmware upgrade to the latest Marlin at the time as Creality had not implemented the feature yet in their modified Marlin Firmware. No longer an issue afaik, but keep it in mind.
+
+Upcoming:
+* Direct Drive with the Hydra
+* Klipper Firmware
+* Z-rod stabalizer (found an amazing product for the zero-G printers that will work on the Ender 5 10-20$ on AliExpress, It removes the ringing and wobble caused by moving Z-rod.)
+* Linear Railes, YES, NO? (Not much benifit but I don't like the current setup)
+* Eventually a self leveling Bed (3 adjustable axis/leveling points)
   
 ---
 
