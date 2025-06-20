@@ -24,7 +24,7 @@ git clone https://github.com/YourUsername/EnderForge.git
 
 ## 📌 Updates & Contributions
 
-Updates occur as frequently as possible. If you notice a feature in a newer Marlin release you'd like included, please [submit an issue](https://github.com/YourUsername/EnderForge/issues).
+Updates occur as frequently as possible. If you notice a feature in a newer Marlin release you'd like included, please [submit an issue](https://github.com/YourUsername/EnderForge/issues). To request an update featuring your own custom design or enhancement, please open a new [feature request issue](https://github.com/YourUsername/EnderForge/issues/new?template=feature_request.md).
 
 ---
 
@@ -39,6 +39,7 @@ Stay tuned! Future firmware builds may include:
 
 ## 🛠️ Maintained by AstroCat
 
-Firmware managed by AstroCat, the legendary space-faring feline engineer at **IGBOTO Lab's**.
+Firmware managed by AstroCat, the legendary space-faring feline engineer at **IGBOTO Lab's**. [AstroCat@IGBOTO.com](mailto:AstroCat@IGBOTO.com)
 
 ---
+
