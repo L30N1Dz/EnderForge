@@ -23,6 +23,7 @@ Specific Firmware Changes from Stock Ender 5:
   
 Upgrades:
 * Creality 4.2.7 Silent Mainboard
+* BLtouch bed leveling
 * All Metal Extruder
 * New Bed Springs
 * Capricorn Tubing
